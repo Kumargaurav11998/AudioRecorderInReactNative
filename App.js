@@ -4,7 +4,7 @@ import {View} from 'react-native';
 function App() {
   return (
     <View>
-      <Text>Gaurav change </Text>
+      <Text>Gaurav change react</Text>
     </View>
   );
 }
